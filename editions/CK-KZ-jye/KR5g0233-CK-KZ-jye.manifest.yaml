@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5g0233/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0233/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君太素經
+  date: '2015-08-29 03:00:33.071616'
+  source:
+    repository: kanripo
+    path: KR5g0233
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0233_000-CK-KZ-jye.yaml, hash: 'sha256:56cf0c9ae5703659910d93f2e900dbdf6625d13e20ed6b37f1c9df233d16a66b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0233_000-CK-KZ-jye.markers.yaml, hash: 'sha256:f683a66096cf407c005da5f910a920d41bab1217d12859b95440c107cad90a48'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0233_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 507
+  label: 太上老君太素經
+  type: section
+  level: 1
+hash: sha256:7592d3ee9d64b711470e77e9d2da788111f908f0cc4b141d885636e03d5431a0
